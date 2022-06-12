@@ -7,3 +7,7 @@ Galaxy Fitⓔ is a lightweight smartwatch that is simple to operate. It provides
 	Easy movement tracking
 
 ![image](https://user-images.githubusercontent.com/107342416/173223046-97b10b4c-7c74-45a3-9143-4ed12bd310f2.png)
+#Getting Started
+##Battery Charging
+1.	Connect the cable to the USB adaptor.
+2.	Adjust the center of the charger with the watch and the charger clasp next to the charging points.
