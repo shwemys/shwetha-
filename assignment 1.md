@@ -5,4 +5,4 @@ Galaxy Fitⓔ is a lightweight smartwatch that is simple to operate. It provides
 	Compact
 	Tough and durable with water resistance
 	Easy movement tracking
-!
+
