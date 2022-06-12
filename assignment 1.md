@@ -11,4 +11,5 @@ Galaxy Fitⓔ is a lightweight smartwatch that is simple to operate. It provides
 ## Battery Charging
 1.	Connect the cable to the USB adaptor.
 2.	Adjust the center of the charger with the watch and the charger clasp next to the charging points.
-![image](https://user-images.githubusercontent.com/107342416/173223482-c033900f-eb0d-4bdd-85ed-2bf502acee20.png)
+3.	Press and hold the watch and charger till you hear a click sound.
+4.	After completely charging the device, pull the charger handle to remove it. Disconnect the charger from the plug point.
